@@ -1,0 +1,6 @@
+ID;Bezeichner;Footprint;Stückzahl;Bezeichnung;Anbieter und Referenz;;
+1;U1,U2,U3,U4,U5,U6,U7,U8,U10,U11,U12,U13,U14,U15,U16,U17,U18,U19,U20,U21,U22,U23,U24,U25;DIP-18_W7.62mm_Socket;24;ibm_4416;;;
+2;U9;DIP-14_W7.62mm;1;74LS04;;;
+3;C18,C17,C19;C_Disc_D4.3mm_W1.9mm_P5.00mm;3;10uF;;;
+4;C1,C2,C3,C4,C5,C6,C7,C8,C9,C10,C11,C12,C13,C14,C15,C16;C_Disc_D3.0mm_W1.6mm_P2.50mm;16;0.047uF;;;
+5;P1;PinHeader_2x32_P2.54mm_Vertical;1;IBM_MemEx_CON;;;
